@@ -26,7 +26,7 @@
 
 2.系统激活
 
-#### heukms https://github.com/zbezj/HEU_KMS_Activator
+#### heu kms https://github.com/zbezj/HEU_KMS_Activator
 
 
 #### 下载工具
@@ -44,7 +44,7 @@
 
 ##### todesk https://www.todesk.com/index.html
 
-
+##### anyviewer https://www.anyviewer.cn/
 
 
 
