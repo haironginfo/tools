@@ -33,6 +33,9 @@
 
 
 ####  bilibili https://github.com/leiurayer/downkyi
+#### motrix https://motrix.app/
+#### xdown http://www.xdown.org/
+#### 万能视频下载 https://github.com/KurtBestor/Hitomi-Downloader
 
 #### 网络工具
 
