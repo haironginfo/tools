@@ -36,6 +36,7 @@
 #### motrix https://motrix.app/
 #### xdown http://www.xdown.org/
 #### 万能视频下载 https://github.com/KurtBestor/Hitomi-Downloader
+#### transmission https://github.com/transmission
 
 #### 网络工具
 
