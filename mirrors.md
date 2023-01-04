@@ -13,7 +13,7 @@
 
 #### 清华大学 https://mirrors.tuna.tsinghua.edu.cn/
 
-
+#### 中科大 http://mirrors.ustc.edu.cn/
 #### 华中科大 http://mirror.hust.edu.cn/
 ####  浙江大学 http://mirrors.zju.edu.cn/
 
