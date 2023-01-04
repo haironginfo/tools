@@ -9,6 +9,8 @@
 ##### 2.自由天空 https://www.itsk.com/
 ##### 3.EasyU(优启通) v3.7.2022.1024 VIP版  https://www.ghxi.com/easyu.html
 ##### 4.果核剥壳 https://www.ghxi.com
+#####  ventor 万能启动 https://www.ventoy.net/cn/index.html
+
 
 
 #### 压缩工具
