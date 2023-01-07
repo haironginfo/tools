@@ -48,6 +48,8 @@
 
 ##### anyviewer https://www.anyviewer.cn/
 
+##### zerotier https://www.zerotier.com/
+linux install: curl -s https://install.zerotier.com | sudo bash
 
 #### read
 
