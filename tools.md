@@ -51,6 +51,8 @@
 ##### zerotier https://www.zerotier.com/
 linux install: curl -s https://install.zerotier.com | sudo bash
 
+sudo zerotier-cli join ***
+
 #### read
 
 ##### https://calibre-ebook.com/
