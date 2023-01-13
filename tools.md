@@ -58,8 +58,8 @@ sudo zerotier-cli join ***
 ##### https://calibre-ebook.com/
 linux install:  sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
 
-
-
+#### 播放器
+##### kodi https://kodi.tv/download/
 
 
 
