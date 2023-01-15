@@ -53,6 +53,8 @@ linux install: curl -s https://install.zerotier.com | sudo bash
 
 sudo zerotier-cli join ***
 
+e5cd7a9e1c4c4300
+
 #### read
 
 ##### https://calibre-ebook.com/
