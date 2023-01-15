@@ -21,12 +21,26 @@
 #### 山东大学镜像  https://mirrors.sdu.edu.cn/#/home
 #### 南京大学镜像  https://mirrors.nju.edu.cn/
 
+#### 北京外国语大学 https://mirrors.bfsu.edu.cn/
+
 ## composer
 
 #### https://pkg.xyz/
 
 
+### iso
 
+#### mint
+
+http://mirrors.aliyun.com/linuxmint/stable/?spm=a2c6h.25603864.0.0.50577f2fD0lO2m
+
+https://mirrors.nju.edu.cn/download/Linux%20Mint
+
+### mx
+
+https://mirrors.aliyun.com/mxlinux-iso/MX/Final/?spm=a2c6h.25603864.0.0.39af4b18ZH0TDo
+
+https://mirrors.bfsu.edu.cn/osdn/storage/g/m/mx/mx-linux/ISOs/
 
 
 
