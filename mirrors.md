@@ -52,5 +52,21 @@ https://mirrors.sjtug.sjtu.edu.cn/linuxliteos/
 #### 
 
 
+### flatpak
+
+
+
+https://mirror.sjtu.edu.cn/flathub
+
+
+
+
+
+
+
+
+
+
+
 
 
