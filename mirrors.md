@@ -56,9 +56,9 @@ https://mirrors.sjtug.sjtu.edu.cn/linuxliteos/
 
 
 
-https://mirror.sjtu.edu.cn/flathub
+#### https://mirror.sjtu.edu.cn/flathub
 
-
+#### doc  https://mirror.sjtu.edu.cn/docs/flathub
 
 
 
